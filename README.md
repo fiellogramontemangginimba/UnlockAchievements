@@ -1,7 +1,6 @@
 # UnlockAchievements
 
 <img src="/preview.gif" width="300" align="right" alt="AchievementUnlocked app demo" hspace="20">
-<h1>AchievementUnlocked</h1>
 <p>Animated pop-ups inspired by XBOX. </p>
 <a href="https://github.com/DarkionAvey/AchievementUnlocked-library/blob/master/app/app-release.apk?raw=true">Download APK (for Android KitKat+)</a>
 
